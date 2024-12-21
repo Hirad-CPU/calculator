@@ -1,2 +1,2 @@
 # calculator
-a simple calculator made by "c" language
+you can run #calculator.c in CS50 ide like CS50.dev or you can run it if you have CS50 library that i put it in .... 
